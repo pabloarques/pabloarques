@@ -3,14 +3,14 @@
 </p>
 
 <p>Soy front-end developer, actualmente estoy centrado en Kotlin </p>
-<img align="right" src="https://media.giphy.com/media/WsJzXF8M8tl6w/giphy.gif">
+<img align="right" style="width: 400px; height: 250px; margin-left: 20px;" src="https://media.giphy.com/media/WsJzXF8M8tl6w/giphy.gif">
 <ul>
   <li>👋 Hola, soy Pablo Arques</li>
   <li>🌱 Desarrollo aplicaciones en Android.</li>
   <li>💼 Actualmente estoy trabajando en Mercadona IT.</li>
 </ul>
 
-#### A little more about me
+#### Un poco sobre mi
 ```javascript
 const pablo = {
   code: ["Kotlin", "Java", "HTML", "CSS"],
