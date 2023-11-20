@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Bienvenido soy <a href="https://github.com/pabloarques">Pablo Arques</a> 👋</h1>
+  <h1 align="center">Bienvenido, soy <a href="https://github.com/pabloarques">Pablo Arques</a> 👋</h1>
 </p>
 
 <p>Soy front-end developer, actualmente estoy centrado en Kotlin </p>
